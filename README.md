@@ -1,8 +1,7 @@
 ### <ABOUT ME />
 
 
-- ⌨ I’m currently learning JAVA ...
-- 💻 I’m currently learning Flutter and Dart...
+- 💻 I’m am good at Python, Flutter
 - 🥽 I’m looking to collaborate on a real project that has a real impact on the world ...
 - 📫 How to reach me: find me on Twitter 
 
