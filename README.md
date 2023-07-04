@@ -1,7 +1,7 @@
 ### <ABOUT ME />
 
-
-- 💻 I’m am good at Python, Flutter
-- 🥽 I’m looking to collaborate on a real project that has a real impact on the world ...
-- 📫 How to reach me: find me on Twitter 
+- 🔨 I am Co-Founder of Maankaal which is an app for small and medium business owners to track expenses, customer debts and inventory in an easy way.
+- 💻 I build with Flutter, Node.js, Python
+- 🥽 I’m into Artificial intelligence, deep learning, and LLMS
+- 📫 How to reach me: muhammadkaasim3@gmail.com
 
